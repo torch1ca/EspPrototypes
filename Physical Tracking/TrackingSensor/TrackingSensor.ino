@@ -1,12 +1,10 @@
-
-
+#include "EspNowHandler.h"
 
 void setup() {
-  // put your setup code here, to run once:
-
+  espNowInit();
+  peerInit();
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
 
 }
