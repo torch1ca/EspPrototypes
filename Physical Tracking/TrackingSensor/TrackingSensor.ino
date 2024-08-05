@@ -1,10 +1,8 @@
 #include "EspNowHandler.h"
 
 void setup() {
-  espNowInit();
-  peerInit();
+  trackerInit();
 }
 
 void loop() {
-
 }
