@@ -8,5 +8,5 @@ void setup(){
 
 void loop(){
  i2cdetect();
- delay(1000);
+ delay(5000);
 }
